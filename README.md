@@ -1,4 +1,4 @@
-# 🗣 Automatic Speech Recognition using OpenAI's Whisper ✨ 
+# Automatic Speech Recognition using OpenAI's Whisper
 
 A minimalistic automatic speech recognition streamlit based webapp powered by OpenAI's Whisper "State of the Art" models
 
