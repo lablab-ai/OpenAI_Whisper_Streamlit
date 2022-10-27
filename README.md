@@ -36,6 +36,7 @@ This will launch the dockerized app. Navigate to ***http://localhost:8501/*** in
 docker ps
 ```
 
+Read more about Whisper here: https://lablab.ai/tech/whisper
 ---
 
 [![Artificial Intelligence Hackathons, tutorials and Boilerplates](https://storage.googleapis.com/lablab-static-eu/images/github/lablab-banner.jpg)](https://lablab.ai)
